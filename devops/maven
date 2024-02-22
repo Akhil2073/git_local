@@ -1,0 +1,6 @@
+ maven:
+this is a build tool helps to build and test the code
+
+mvn follows a life cycle
+but the entire life cycle steps can be covered in a single step:
+--mvn clean package

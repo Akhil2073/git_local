@@ -1,0 +1,6 @@
+ jenkins
+this is a continuous integration and continuous deployment process
+CI:
+ this involves getting source code from github and then test it and build it.
+
+CD: the tested code will now be deployed to tomcat
